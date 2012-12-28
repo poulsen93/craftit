@@ -1,13 +1,13 @@
 lastlocation:
   world: world
-  x: -7.300000011920955
+  x: -33.77443775722095
   y: 65.0
-  z: 176.69999998807907
-  yaw: -229.8059
-  pitch: 11.249992
+  z: 160.30000001192093
+  yaw: 79.49457
+  pitch: 36.44997
 timestamps:
-  logout: 1356718639516
-  login: 1356721722186
+  logout: 1356723887597
+  login: 1356723894696
   lastteleport: 1356723362520
 ipAddress: 10.0.1.34
-afk: true
+afk: false
