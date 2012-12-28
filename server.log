@@ -45946,3 +45946,11 @@ Caused by: java.lang.NoSuchMethodError: org.bukkit.event.entity.EntityChangeBloc
 	at java.lang.reflect.Method.invoke(Method.java:601)
 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:425)
 	... 24 more
+2012-12-28 13:15:21 [INFO] <crazytaxi01> ooooh a faction!
+2012-12-28 13:15:23 [INFO] iancarroll issued server command: /tpa crazy
+2012-12-28 13:15:24 [INFO] [Backup] Failed to retrieve latest version information.
+2012-12-28 13:15:27 [INFO] crazytaxi01 issued server command: /tpaccept
+2012-12-28 13:15:43 [INFO] <crazytaxi01> OR JSUT HOSUE
+2012-12-28 13:15:46 [INFO] <crazytaxi01> just*
+2012-12-28 13:15:55 [INFO] <iancarroll> That's not a faction, that's actually my house. I should turn it into a faction though
+2012-12-28 13:16:00 [INFO] <crazytaxi01> oh ok :)
