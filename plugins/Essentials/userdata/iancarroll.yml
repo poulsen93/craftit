@@ -10,4 +10,4 @@ timestamps:
   login: 1356716566309
   lastteleport: 1356712850098
 ipAddress: 10.0.1.34
-afk: false
+afk: true
