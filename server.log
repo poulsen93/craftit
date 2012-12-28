@@ -46204,3 +46204,291 @@ Caused by: java.lang.NoSuchMethodError: org.bukkit.event.entity.EntityChangeBloc
 2012-12-28 14:03:22 [INFO] iancarroll[/10.0.1.34:57383] logged in with entity id 74291 at ([world] 507.42655945628394, 79.0, 170.59787751336196)
 2012-12-28 14:03:22 [INFO] [Backup] Stopped last backup, because someone joined.
 2012-12-28 14:03:42 [INFO] iancarroll issued server command: /time day
+2012-12-28 14:04:15 [INFO] [31;1mServer will be restarting in 10.0 minutes![m
+2012-12-28 14:04:15 [INFO] [SimpleRestart] Server will be restarting in 10.0 minutes!
+2012-12-28 14:04:17 [INFO] iancarroll issued server command: /reload
+2012-12-28 14:04:17 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn v2.9.6
+2012-12-28 14:04:17 [INFO] [AntiCommandTab] Disabling AntiCommandTab v1
+2012-12-28 14:04:17 [INFO] [Factions] Disabling Factions v1.6.9.4
+2012-12-28 14:04:17 [INFO] [Factions v1.6.9.4] Disabled
+2012-12-28 14:04:17 [INFO] [Essentials] Disabling Essentials v2.9.6
+2012-12-28 14:04:17 [INFO] [dynmap] Disabling dynmap v1.3-1464
+2012-12-28 14:04:18 [INFO] [dynmap] Unloaded 11 components.
+2012-12-28 14:04:18 [INFO] [dynmap] Stopping map renderer...
+2012-12-28 14:04:18 [INFO] [dynmap] Saved 9 pending tile renders in world 'world
+2012-12-28 14:04:18 [INFO] [dynmap] Disabled
+2012-12-28 14:04:18 [INFO] [SimpleRestart] Disabling SimpleRestart v1.3.4
+2012-12-28 14:04:18 [INFO] [SimpleRestart] plugin disabled
+2012-12-28 14:04:18 [INFO] [WorldGuard] Disabling WorldGuard v5.6.5
+2012-12-28 14:04:18 [INFO] [LWC] Disabling LWC v4.3.1 (b767-git-MANUAL) (November 15, 2012)
+2012-12-28 14:04:18 [INFO] [LWC] Flushing protection updates (0)
+2012-12-28 14:04:18 [INFO] [Votifier] Disabling Votifier v1.9
+2012-12-28 14:04:18 [INFO] [Votifier] Votifier disabled.
+2012-12-28 14:04:18 [INFO] [ProtocolLib] Disabling ProtocolLib v1.9.0
+2012-12-28 14:04:18 [WARNING] [Votifier] Protocol error. Ignoring packet - Socket closed
+2012-12-28 14:04:18 [INFO] [Backup] Disabling Backup v2.0
+2012-12-28 14:04:18 [INFO] [Backup] Backup v2.0 has completely un-loaded!
+2012-12-28 14:04:18 [INFO] [WhiteMessage] Disabling WhiteMessage v1.9
+2012-12-28 14:04:18 [INFO] [WhiteMessage] Plugin disabled
+2012-12-28 14:04:18 [INFO] [Honeypot] Disabling Honeypot v1.4.4.1
+2012-12-28 14:04:18 [INFO] [Honeypot] version 1.4.4.1, build 48 is disabled
+2012-12-28 14:04:18 [INFO] [Skript] Disabling Skript v1.4.9
+2012-12-28 14:04:18 [SEVERE] Error occurred while disabling Skript v1.4.9 (Is it up to date?)
+java.lang.NullPointerException
+	at ch.njol.skript.Variables.cancelSaveTask(Variables.java:340)
+	at ch.njol.skript.Skript.onDisable(Skript.java:291)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:219)
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:481)
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:400)
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:393)
+	at org.bukkit.plugin.SimplePluginManager.clearPlugins(SimplePluginManager.java:434)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.reload(CraftServer.java:557)
+	at org.bukkit.Bukkit.reload(Bukkit.java:184)
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:186)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.dispatchCommand(CraftServer.java:510)
+	at net.minecraft.server.v1_4_6.PlayerConnection.handleCommand(PlayerConnection.java:980)
+	at net.minecraft.server.v1_4_6.PlayerConnection.chat(PlayerConnection.java:898)
+	at net.minecraft.server.v1_4_6.PlayerConnection.a(PlayerConnection.java:853)
+	at net.minecraft.server.v1_4_6.Packet3Chat.handle(Packet3Chat.java:44)
+	at net.minecraft.server.v1_4_6.NetworkManager.b(NetworkManager.java:290)
+	at net.minecraft.server.v1_4_6.PlayerConnection.d(PlayerConnection.java:112)
+	at net.minecraft.server.v1_4_6.ServerConnection.b(SourceFile:39)
+	at net.minecraft.server.v1_4_6.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:598)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+2012-12-28 14:04:18 [INFO] [NoCheatPlus] Disabling NoCheatPlus v3.8.8-b295
+2012-12-28 14:04:18 [INFO] [NoCheatPlus] Version 3.8.8-b295 is disabled.
+2012-12-28 14:04:18 [INFO] [WorldEdit] Disabling WorldEdit v5.4.5
+2012-12-28 14:04:18 [INFO] 210 recipes
+2012-12-28 14:04:18 [INFO] [WorldEdit] Loading WorldEdit v5.4.5
+2012-12-28 14:04:18 [INFO] [NoCheatPlus] Loading NoCheatPlus v3.8.8-b295
+2012-12-28 14:04:18 [INFO] [Skript] Loading Skript v1.4.9
+2012-12-28 14:04:18 [INFO] [Honeypot] Loading Honeypot v1.4.4.1
+2012-12-28 14:04:18 [INFO] [WhiteMessage] Loading WhiteMessage v1.9
+2012-12-28 14:04:18 [INFO] [Backup] Loading Backup v2.0
+2012-12-28 14:04:18 [INFO] [ProtocolLib] Loading ProtocolLib v1.9.0
+2012-12-28 14:04:18 [INFO] [Votifier] Loading Votifier v1.9
+2012-12-28 14:04:18 [INFO] [LWC] Loading LWC v4.3.1 (b767-git-MANUAL) (November 15, 2012)
+2012-12-28 14:04:18 [INFO] [WorldGuard] Loading WorldGuard v5.6.5
+2012-12-28 14:04:18 [INFO] [SimpleRestart] Loading SimpleRestart v1.3.4
+2012-12-28 14:04:18 [INFO] [dynmap] Loading dynmap v1.3-1464
+2012-12-28 14:04:18 [INFO] [Essentials] Loading Essentials v2.9.6
+2012-12-28 14:04:18 [INFO] [Factions] Loading Factions v1.6.9.4
+2012-12-28 14:04:18 [INFO] [AntiCommandTab] Loading AntiCommandTab v1
+2012-12-28 14:04:18 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.9.6
+2012-12-28 14:04:18 [INFO] [ProtocolLib] Enabling ProtocolLib v1.9.0
+2012-12-28 14:04:18 [INFO] [ProtocolLib] Started structure compiler thread.
+2012-12-28 14:04:18 [INFO] [LWC] Enabling LWC v4.3.1 (b767-git-MANUAL) (November 15, 2012)
+2012-12-28 14:04:18 [INFO] [LWC] Loaded 209 locale strings (0 overrides)
+2012-12-28 14:04:19 [INFO] [LWC] Permissions API: §4SuperPermsPermissions
+2012-12-28 14:04:19 [INFO] [LWC] Currency API: §4EssentialsCurrency
+2012-12-28 14:04:19 [INFO] [LWC] Connecting to SQLite
+2012-12-28 14:04:19 [INFO] [LWC] Performing any necessary database updates
+2012-12-28 14:04:19 [INFO] [LWC] Using database: Native
+2012-12-28 14:04:19 [INFO] [LWC] Precached 6 protections
+2012-12-28 14:04:19 [INFO] [WorldEdit] Enabling WorldEdit v5.4.5
+2012-12-28 14:04:19 [INFO] WEPIF: Using the Bukkit Permissions API.
+2012-12-28 14:04:19 [INFO] [NoCheatPlus] Enabling NoCheatPlus v3.8.8-b295
+2012-12-28 14:04:19 [INFO] [NoCheatPlus] McAccess set to: 1.4.6 / CB2545
+2012-12-28 14:04:19 [INFO] [NoCheatPlus] Version 3.8.8-b295 is enabled.
+2012-12-28 14:04:19 [INFO] [Skript] Enabling Skript v1.4.9
+2012-12-28 14:04:20 [SEVERE] Error occurred while enabling Skript v1.4.9 (Is it up to date?)
+java.lang.ExceptionInInitializerError
+	at ch.njol.skript.Skript.loadMainConfig(Skript.java:1766)
+	at ch.njol.skript.Skript.onEnable(Skript.java:199)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.loadPlugin(CraftServer.java:278)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.enablePlugins(CraftServer.java:260)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.reload(CraftServer.java:587)
+	at org.bukkit.Bukkit.reload(Bukkit.java:184)
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:186)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.dispatchCommand(CraftServer.java:510)
+	at net.minecraft.server.v1_4_6.PlayerConnection.handleCommand(PlayerConnection.java:980)
+	at net.minecraft.server.v1_4_6.PlayerConnection.chat(PlayerConnection.java:898)
+	at net.minecraft.server.v1_4_6.PlayerConnection.a(PlayerConnection.java:853)
+	at net.minecraft.server.v1_4_6.Packet3Chat.handle(Packet3Chat.java:44)
+	at net.minecraft.server.v1_4_6.NetworkManager.b(NetworkManager.java:290)
+	at net.minecraft.server.v1_4_6.PlayerConnection.d(PlayerConnection.java:112)
+	at net.minecraft.server.v1_4_6.ServerConnection.b(SourceFile:39)
+	at net.minecraft.server.v1_4_6.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:598)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+Caused by: java.lang.NullPointerException
+	at ch.njol.skript.Aliases$1.onLanguageChange(Aliases.java:296)
+	at ch.njol.skript.Language.addListener(Language.java:111)
+	at ch.njol.skript.Aliases.<clinit>(Aliases.java:291)
+	... 25 more
+2012-12-28 14:04:20 [INFO] [Honeypot] Enabling Honeypot v1.4.4.1
+2012-12-28 14:04:20 [INFO] [Honeypot] using OPS for permissions
+2012-12-28 14:04:25 [SEVERE] Error occurred while enabling Honeypot v1.4.4.1 (Is it up to date?)
+java.lang.OutOfMemoryError: PermGen space
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:787)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:447)
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:71)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:361)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at org.bukkit.plugin.java.PluginClassLoader.findClass0(PluginClassLoader.java:80)
+	at org.bukkit.plugin.java.JavaPluginLoader.getClassByName0(JavaPluginLoader.java:300)
+	at org.bukkit.plugin.java.PluginClassLoader.findClass0(PluginClassLoader.java:76)
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:53)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:423)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:356)
+	at org.dom4j.tree.AbstractBranch.createResultList(AbstractBranch.java:373)
+	at org.dom4j.tree.AbstractElement.elements(AbstractElement.java:352)
+	at com.morganm.reflections.serializers.XmlSerializer.read(XmlSerializer.java:46)
+	at com.morganm.reflections.Reflections.collect(Reflections.java:250)
+	at com.morganm.reflections.Reflections.collect(Reflections.java:231)
+	at com.argo.bukkit.util.BanHandlerFactory.<init>(BanHandlerFactory.java:31)
+	at com.argo.bukkit.honeypot.Honeypot.onEnable(Honeypot.java:63)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.loadPlugin(CraftServer.java:278)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.enablePlugins(CraftServer.java:260)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.reload(CraftServer.java:587)
+	at org.bukkit.Bukkit.reload(Bukkit.java:184)
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:186)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.dispatchCommand(CraftServer.java:510)
+2012-12-28 14:04:25 [INFO] [WhiteMessage] Enabling WhiteMessage v1.9
+2012-12-28 14:04:25 [INFO] [WhiteMessage] Plugin enabled
+2012-12-28 14:04:25 [INFO] [Backup] Enabling Backup v2.0
+2012-12-28 14:04:27 [SEVERE] Error occurred while enabling Backup v2.0 (Is it up to date?)
+java.lang.OutOfMemoryError: PermGen space
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:787)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:447)
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:71)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:361)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at org.bukkit.plugin.java.PluginClassLoader.findClass0(PluginClassLoader.java:80)
+	at org.bukkit.plugin.java.JavaPluginLoader.getClassByName0(JavaPluginLoader.java:300)
+	at org.bukkit.plugin.java.PluginClassLoader.findClass0(PluginClassLoader.java:76)
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:53)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:423)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:356)
+	at com.bukkitbackup.full.BackupFull.onEnable(BackupFull.java:86)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.loadPlugin(CraftServer.java:278)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.enablePlugins(CraftServer.java:260)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.reload(CraftServer.java:587)
+	at org.bukkit.Bukkit.reload(Bukkit.java:184)
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:186)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.dispatchCommand(CraftServer.java:510)
+	at net.minecraft.server.v1_4_6.PlayerConnection.handleCommand(PlayerConnection.java:980)
+	at net.minecraft.server.v1_4_6.PlayerConnection.chat(PlayerConnection.java:898)
+	at net.minecraft.server.v1_4_6.PlayerConnection.a(PlayerConnection.java:853)
+	at net.minecraft.server.v1_4_6.Packet3Chat.handle(Packet3Chat.java:44)
+	at net.minecraft.server.v1_4_6.NetworkManager.b(NetworkManager.java:290)
+	at net.minecraft.server.v1_4_6.PlayerConnection.d(PlayerConnection.java:112)
+2012-12-28 14:04:27 [INFO] [Votifier] Enabling Votifier v1.9
+2012-12-28 14:04:28 [SEVERE] Error occurred while enabling Votifier v1.9 (Is it up to date?)
+java.lang.OutOfMemoryError: PermGen space
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:787)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:447)
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:71)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:361)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at org.bukkit.plugin.java.PluginClassLoader.findClass0(PluginClassLoader.java:80)
+	at org.bukkit.plugin.java.JavaPluginLoader.getClassByName0(JavaPluginLoader.java:300)
+	at org.bukkit.plugin.java.PluginClassLoader.findClass0(PluginClassLoader.java:76)
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:53)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:423)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:356)
+	at com.vexsoftware.votifier.Votifier.onEnable(Votifier.java:151)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.loadPlugin(CraftServer.java:278)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.enablePlugins(CraftServer.java:260)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.reload(CraftServer.java:587)
+	at org.bukkit.Bukkit.reload(Bukkit.java:184)
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:186)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.dispatchCommand(CraftServer.java:510)
+	at net.minecraft.server.v1_4_6.PlayerConnection.handleCommand(PlayerConnection.java:980)
+	at net.minecraft.server.v1_4_6.PlayerConnection.chat(PlayerConnection.java:898)
+	at net.minecraft.server.v1_4_6.PlayerConnection.a(PlayerConnection.java:853)
+	at net.minecraft.server.v1_4_6.Packet3Chat.handle(Packet3Chat.java:44)
+	at net.minecraft.server.v1_4_6.NetworkManager.b(NetworkManager.java:290)
+	at net.minecraft.server.v1_4_6.PlayerConnection.d(PlayerConnection.java:112)
+2012-12-28 14:04:28 [INFO] [WorldGuard] Enabling WorldGuard v5.6.5
+2012-12-28 14:04:30 [SEVERE] Error occurred while enabling WorldGuard v5.6.5 (Is it up to date?)
+java.lang.OutOfMemoryError: PermGen space
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:787)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:447)
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:71)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:361)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at org.bukkit.plugin.java.PluginClassLoader.findClass0(PluginClassLoader.java:80)
+	at org.bukkit.plugin.java.JavaPluginLoader.getClassByName0(JavaPluginLoader.java:300)
+	at org.bukkit.plugin.java.PluginClassLoader.findClass0(PluginClassLoader.java:76)
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:53)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:423)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:356)
+	at com.sk89q.worldguard.bukkit.WorldGuardPlugin.onEnable(WorldGuardPlugin.java:118)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.loadPlugin(CraftServer.java:278)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.enablePlugins(CraftServer.java:260)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.reload(CraftServer.java:587)
+	at org.bukkit.Bukkit.reload(Bukkit.java:184)
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:186)
+	at org.bukkit.craftbukkit.v1_4_6.CraftServer.dispatchCommand(CraftServer.java:510)
+	at net.minecraft.server.v1_4_6.PlayerConnection.handleCommand(PlayerConnection.java:980)
+	at net.minecraft.server.v1_4_6.PlayerConnection.chat(PlayerConnection.java:898)
+	at net.minecraft.server.v1_4_6.PlayerConnection.a(PlayerConnection.java:853)
+	at net.minecraft.server.v1_4_6.Packet3Chat.handle(Packet3Chat.java:44)
+	at net.minecraft.server.v1_4_6.NetworkManager.b(NetworkManager.java:290)
+	at net.minecraft.server.v1_4_6.PlayerConnection.d(PlayerConnection.java:112)
+2012-12-28 14:04:30 [INFO] [SimpleRestart] Enabling SimpleRestart v1.3.4
+2012-12-28 14:04:30 [INFO] [SimpleRestart] plugin enabled
+2012-12-28 14:04:30 [INFO] [SimpleRestart] warning scheduled for 3000 seconds from now!
+2012-12-28 14:04:30 [INFO] [SimpleRestart] warning scheduled for 3300 seconds from now!
+2012-12-28 14:04:30 [INFO] [SimpleRestart] warning scheduled for 3480 seconds from now!
+2012-12-28 14:04:30 [INFO] [SimpleRestart] warning scheduled for 3540 seconds from now!
+2012-12-28 14:04:30 [INFO] [SimpleRestart] reboot scheduled for 3600 seconds from now!
+2012-12-28 14:04:30 [INFO] [dynmap] Enabling dynmap v1.3-1464
+2012-12-28 14:04:31 [SEVERE] Error occurred while enabling dynmap v1.3-1464 (Is it up to date?)
+java.lang.OutOfMemoryError: PermGen space
+2012-12-28 14:04:31 [INFO] [Essentials] Enabling Essentials v2.9.6
+2012-12-28 14:04:32 [SEVERE] Error occurred while enabling Essentials v2.9.6 (Is it up to date?)
+java.lang.OutOfMemoryError: PermGen space
+2012-12-28 14:04:32 [INFO] [Factions] Enabling Factions v1.6.9.4
+2012-12-28 14:04:32 [INFO] [Factions v1.6.9.4] === ENABLE START ===
+2012-12-28 14:04:34 [SEVERE] Error occurred while enabling Factions v1.6.9.4 (Is it up to date?)
+java.lang.OutOfMemoryError: PermGen space
+2012-12-28 14:04:34 [INFO] [AntiCommandTab] Enabling AntiCommandTab v1
+2012-12-28 14:04:35 [SEVERE] Error occurred while enabling AntiCommandTab v1 (Is it up to date?)
+java.lang.OutOfMemoryError: PermGen space
+2012-12-28 14:04:35 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.9.6
