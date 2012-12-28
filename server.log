@@ -46500,3 +46500,47 @@ java.lang.OutOfMemoryError: PermGen space
 2012-12-28 14:07:22 [WARNING] **** FAILED TO BIND TO PORT!
 2012-12-28 14:07:22 [WARNING] The exception was: java.net.BindException: Address already in use
 2012-12-28 14:07:22 [WARNING] Perhaps a server is already running on that port?
+2012-12-28 18:31:52 [INFO] Starting minecraft server version 1.4.6
+2012-12-28 18:31:52 [INFO] Loading properties
+2012-12-28 18:31:52 [INFO] Default game type: SURVIVAL
+2012-12-28 18:31:52 [INFO] Generating keypair
+2012-12-28 18:31:53 [INFO] Starting Minecraft server on *:25565
+2012-12-28 18:31:54 [INFO] This server is running CraftBukkit version git-Bukkit-1.4.6-R0.1-b2561jnks (MC: 1.4.6) (Implementing API version 1.4.6-R0.1)
+2012-12-28 18:31:56 [INFO] ----- Bukkit Auto Updater -----
+2012-12-28 18:31:56 [INFO] It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2012-12-28 18:31:56 [INFO] If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+2012-12-28 18:31:56 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2012-12-28 18:31:56 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2012-12-28 18:31:56 [INFO] ----- ------------------- -----
+2012-12-28 18:31:56 [INFO] [WorldEdit] Loading WorldEdit v5.4.5
+2012-12-28 18:31:56 [INFO] [NoCheatPlus] Loading NoCheatPlus v3.8.8-b295
+2012-12-28 18:31:56 [INFO] [Skript] Loading Skript v2.0 beta 5
+2012-12-28 18:31:56 [INFO] [Honeypot] Loading Honeypot v1.4.4.1
+2012-12-28 18:31:56 [INFO] [WhiteMessage] Loading WhiteMessage v1.9
+2012-12-28 18:31:56 [INFO] [Backup] Loading Backup v2.0
+2012-12-28 18:31:57 [INFO] [ProtocolLib] Loading ProtocolLib v1.9.0
+2012-12-28 18:31:57 [INFO] [Votifier] Loading Votifier v1.9
+2012-12-28 18:31:57 [INFO] [LWC] Loading LWC v4.3.1 (b767-git-MANUAL) (November 15, 2012)
+2012-12-28 18:31:57 [INFO] [WorldGuard] Loading WorldGuard v5.6.5
+2012-12-28 18:31:57 [INFO] [SimpleRestart] Loading SimpleRestart v1.3.4
+2012-12-28 18:31:57 [INFO] [dynmap] Loading dynmap v1.3-1464
+2012-12-28 18:31:57 [INFO] [Essentials] Loading Essentials v2.9.6
+2012-12-28 18:31:57 [INFO] [Factions] Loading Factions v1.6.9.4
+2012-12-28 18:31:57 [INFO] [AntiCommandTab] Loading AntiCommandTab v1
+2012-12-28 18:31:57 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.9.6
+2012-12-28 18:31:57 [INFO] [ProtocolLib] Enabling ProtocolLib v1.9.0
+2012-12-28 18:31:57 [INFO] [ProtocolLib] Started structure compiler thread.
+2012-12-28 18:31:57 [INFO] [LWC] Enabling LWC v4.3.1 (b767-git-MANUAL) (November 15, 2012)
+2012-12-28 18:31:57 [INFO] [LWC] Loaded 209 locale strings (0 overrides)
+2012-12-28 18:31:58 [INFO] [LWC] Permissions API: §4SuperPermsPermissions
+2012-12-28 18:31:58 [INFO] [LWC] Currency API: §4EssentialsCurrency
+2012-12-28 18:31:58 [INFO] [LWC] Connecting to SQLite
+2012-12-28 18:31:58 [INFO] [LWC] Performing any necessary database updates
+2012-12-28 18:31:58 [INFO] [LWC] Using database: Native
+2012-12-28 18:31:58 [INFO] [LWC] Precached 16 protections
+2012-12-28 18:31:58 [INFO] Preparing level "world"
+2012-12-28 18:31:59 [INFO] Preparing start region for level 0 (Seed: 481336333637640358)
+2012-12-28 18:32:00 [INFO] Preparing spawn area: 4%
+2012-12-28 18:32:01 [INFO] Preparing spawn area: 61%
+2012-12-28 18:32:01 [INFO] Preparing start region for level 1 (Seed: 3639402998609283774)
+2012-12-28 18:32:02 [INFO] Preparing spawn area: 8%
