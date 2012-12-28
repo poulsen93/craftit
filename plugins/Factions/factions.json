@@ -9,6 +9,14 @@
     "permanent": false,
     "tag": "Templars",
     "description": "NOTHIN' but temple's",
+    "home": {
+      "world": "world",
+      "x": 708.7576508906637,
+      "y": 63.0,
+      "z": 185.756572024684,
+      "yaw": 230.9222412109375,
+      "pitch": 30.30000114440918
+    },
     "money": 0.0,
     "powerBoost": 0.0
   },
