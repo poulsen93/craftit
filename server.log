@@ -46672,3 +46672,8 @@ Caused by: java.lang.NoSuchMethodError: org.bukkit.event.entity.EntityChangeBloc
 2012-12-28 18:34:58 [INFO] /10.0.1.34:61544 lost connection
 2012-12-28 18:35:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
 2012-12-28 18:35:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-28 18:41:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-28 18:49:45 [INFO] Starting minecraft server version 1.4.6
+2012-12-28 18:53:30 [INFO] Loading properties
+2012-12-28 18:53:59 [INFO] Default game type: SURVIVAL
+2012-12-28 18:54:05 [INFO] Generating keypair
