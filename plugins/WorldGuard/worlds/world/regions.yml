@@ -18,6 +18,14 @@ regions:
         flags: {entry: deny}
         owners: {}
         members: {}
+    crazy:
+        type: cuboid
+        min: {x: 696.0, y: 0.0, z: 157.0}
+        max: {x: 727.0, y: 255.0, z: 186.0}
+        priority: 0
+        flags: {}
+        owners: {}
+        members: {}
     outerspawn:
         type: cuboid
         min: {x: -58.0, y: 55.0, z: 127.0}
