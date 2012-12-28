@@ -46492,3 +46492,11 @@ java.lang.OutOfMemoryError: PermGen space
 2012-12-28 14:04:35 [SEVERE] Error occurred while enabling AntiCommandTab v1 (Is it up to date?)
 java.lang.OutOfMemoryError: PermGen space
 2012-12-28 14:04:35 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.9.6
+2012-12-28 14:07:21 [INFO] Starting minecraft server version 1.4.6
+2012-12-28 14:07:21 [INFO] Loading properties
+2012-12-28 14:07:21 [INFO] Default game type: SURVIVAL
+2012-12-28 14:07:21 [INFO] Generating keypair
+2012-12-28 14:07:22 [INFO] Starting Minecraft server on *:25565
+2012-12-28 14:07:22 [WARNING] **** FAILED TO BIND TO PORT!
+2012-12-28 14:07:22 [WARNING] The exception was: java.net.BindException: Address already in use
+2012-12-28 14:07:22 [WARNING] Perhaps a server is already running on that port?
