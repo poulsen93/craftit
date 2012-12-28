@@ -1,4 +1,17 @@
 {
+  "1": {
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "Templars",
+    "description": "NOTHIN' but temple's",
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
   "0": {
     "relationWish": {},
     "claimOwnership": {},
