@@ -23,7 +23,7 @@ honeypotKickMessage: '[Honeypot] You have been caught destroying a honeypot bloc
 #offenseCount: 0
 
 # how may offense points until they are banned
-#offensePoints: 3
+offensePoints: 3
 
 # ability to make some blocks worth more or less points. Helpful
 # if you're honeypotting a region that is a honeypot statue,
@@ -46,9 +46,4 @@ honeypotKickMessage: '[Honeypot] You have been caught destroying a honeypot bloc
 # checked in the order they are listed for existence, and the
 # first one to match is used.
 permissions:
-  - vault
-  - wepif
-  - pex
-  - perm2-compat
-  - superperms
   - ops

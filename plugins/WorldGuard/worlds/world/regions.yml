@@ -26,6 +26,14 @@ regions:
         flags: {}
         owners: {}
         members: {}
+    shelter:
+        type: cuboid
+        min: {x: -157.0, y: 0.0, z: 229.0}
+        max: {x: -149.0, y: 255.0, z: 239.0}
+        priority: 0
+        flags: {}
+        owners: {}
+        members: {}
     spawn:
         type: cuboid
         min: {x: -65.0, y: 0.0, z: 122.0}
