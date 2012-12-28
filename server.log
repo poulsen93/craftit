@@ -44693,3 +44693,42 @@ Caused by: java.lang.NullPointerException
 2012-12-28 13:03:59 [INFO] iancarroll: [32;1mReload complete.[m
 2012-12-28 13:03:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
 2012-12-28 13:05:02 [INFO] [Backup] Failed to retrieve latest version information.
+2012-12-28 13:09:23 [INFO] crazytaxi01[/86.178.76.253:50265] logged in with entity id 58568 at ([world] 108.27255582211083, 62.40066408377757, 308.5798697137481)
+2012-12-28 13:09:28 [INFO] <crazytaxi01> hello
+2012-12-28 13:09:32 [SEVERE] Could not pass event EntityChangeBlockEvent to WorldGuard v5.6.5
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:477)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:462)
+	at org.bukkit.craftbukkit.v1_4_6.event.CraftEventFactory.callEntityChangeBlockEvent(CraftEventFactory.java:457)
+	at org.bukkit.craftbukkit.v1_4_6.event.CraftEventFactory.callEntityChangeBlockEvent(CraftEventFactory.java:441)
+	at net.minecraft.server.v1_4_6.PathfinderGoalEatTile.e(PathfinderGoalEatTile.java:67)
+	at net.minecraft.server.v1_4_6.PathfinderGoalSelector.a(PathfinderGoalSelector.java:104)
+	at net.minecraft.server.v1_4_6.EntityLiving.bl(EntityLiving.java:1457)
+	at net.minecraft.server.v1_4_6.EntitySheep.bl(EntitySheep.java:44)
+	at net.minecraft.server.v1_4_6.EntityLiving.c(EntityLiving.java:1254)
+	at net.minecraft.server.v1_4_6.EntityAgeable.c(EntityAgeable.java:64)
+	at net.minecraft.server.v1_4_6.EntityAnimal.c(SourceFile:33)
+	at net.minecraft.server.v1_4_6.EntitySheep.c(EntitySheep.java:52)
+	at net.minecraft.server.v1_4_6.EntityLiving.j_(EntityLiving.java:523)
+	at net.minecraft.server.v1_4_6.World.entityJoinedWorld(World.java:1334)
+	at net.minecraft.server.v1_4_6.WorldServer.entityJoinedWorld(WorldServer.java:546)
+	at net.minecraft.server.v1_4_6.World.playerJoinedWorld(World.java:1315)
+	at net.minecraft.server.v1_4_6.World.tickEntities(World.java:1193)
+	at net.minecraft.server.v1_4_6.WorldServer.tickEntities(WorldServer.java:443)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:580)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+Caused by: java.lang.NoSuchMethodError: org.bukkit.event.entity.EntityChangeBlockEvent.getEntity()Lorg/bukkit/entity/LivingEntity;
+	at com.sk89q.worldguard.bukkit.WorldGuardEntityListener.onEndermanPickup(WorldGuardEntityListener.java:733)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:425)
+	... 24 more
+2012-12-28 13:09:49 [INFO] <crazytaxi01> hello??
+2012-12-28 13:09:53 [INFO] <crazytaxi01> IAN??
