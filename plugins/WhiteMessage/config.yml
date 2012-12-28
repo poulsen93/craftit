@@ -1,0 +1,11 @@
+# If you need help, go to 'www.dev.bukkit.org/server-mods/whitemessage'.
+# Set the kick message, when the server shuts down, in bukkit.yml!
+# You can use colorcodes like '&e', '&0', etc. Use '\n' for a new line.
+WHITELIST_MESSAGE: '&eYou are not on the Whitelist!'
+BANNED_MESSAGE: '&cYou are banned!'
+FULL_MESSAGE: '&eThe server is full.'
+OTHER_MESSAGE: '&eYou can''t login.'
+KICK_MESSAGE: '&cYou got kicked from the server!'
+KICK_BAN_MESSAGE: "&cYou got banned from the server! \nYour fault."
+ADD_WHITEMESSAGE: 'true'
+COLOR_WHITEMESSAGE: '&9'
