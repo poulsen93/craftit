@@ -1,22 +1,22 @@
 {
-  "iancarroll": {
-    "factionId": "0",
-    "role": "NORMAL",
-    "title": "",
-    "power": -1.5060666666666664,
-    "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1356723294585,
-    "lastLoginTime": 1356721722051,
-    "chatMode": "PUBLIC"
-  },
   "crazytaxi01": {
     "factionId": "1",
     "role": "ADMIN",
     "title": "",
-    "power": 1.9069633333333331,
+    "power": 3.8146066666666667,
     "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1356718852318,
-    "lastLoginTime": 1356718852318,
+    "lastPowerUpdateTime": 1356724991853,
+    "lastLoginTime": 1356724991853,
+    "chatMode": "PUBLIC"
+  },
+  "iancarroll": {
+    "factionId": "0",
+    "role": "NORMAL",
+    "title": "",
+    "power": -3.7162799999999985,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1356725097597,
+    "lastLoginTime": 1356723894663,
     "chatMode": "PUBLIC"
   }
 }
