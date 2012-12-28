@@ -1,5 +1,5 @@
 timestamps:
-  login: 1356718163864
+  login: 1356724379346
   logout: 1356718852101
 ipAddress: 86.178.76.253
 lastlocation:
@@ -9,4 +9,4 @@ lastlocation:
   z: 172.5
   yaw: 0.0
   pitch: 0.0
-afk: true
+afk: false
