@@ -45422,3 +45422,43 @@ Caused by: java.lang.NoSuchMethodError: org.bukkit.event.entity.EntityChangeBloc
 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:425)
 	... 24 more
 2012-12-28 13:12:54 [INFO] <iancarroll> You're not a moderator....
+2012-12-28 13:13:02 [SEVERE] Could not pass event EntityChangeBlockEvent to WorldGuard v5.6.5
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:477)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:462)
+	at org.bukkit.craftbukkit.v1_4_6.event.CraftEventFactory.callEntityChangeBlockEvent(CraftEventFactory.java:457)
+	at org.bukkit.craftbukkit.v1_4_6.event.CraftEventFactory.callEntityChangeBlockEvent(CraftEventFactory.java:441)
+	at net.minecraft.server.v1_4_6.PathfinderGoalEatTile.e(PathfinderGoalEatTile.java:67)
+	at net.minecraft.server.v1_4_6.PathfinderGoalSelector.a(PathfinderGoalSelector.java:104)
+	at net.minecraft.server.v1_4_6.EntityLiving.bl(EntityLiving.java:1457)
+	at net.minecraft.server.v1_4_6.EntitySheep.bl(EntitySheep.java:44)
+	at net.minecraft.server.v1_4_6.EntityLiving.c(EntityLiving.java:1254)
+	at net.minecraft.server.v1_4_6.EntityAgeable.c(EntityAgeable.java:64)
+	at net.minecraft.server.v1_4_6.EntityAnimal.c(SourceFile:33)
+	at net.minecraft.server.v1_4_6.EntitySheep.c(EntitySheep.java:52)
+	at net.minecraft.server.v1_4_6.EntityLiving.j_(EntityLiving.java:523)
+	at net.minecraft.server.v1_4_6.World.entityJoinedWorld(World.java:1334)
+	at net.minecraft.server.v1_4_6.WorldServer.entityJoinedWorld(WorldServer.java:546)
+	at net.minecraft.server.v1_4_6.World.playerJoinedWorld(World.java:1315)
+	at net.minecraft.server.v1_4_6.World.tickEntities(World.java:1193)
+	at net.minecraft.server.v1_4_6.WorldServer.tickEntities(WorldServer.java:443)
+	at net.minecraft.server.v1_4_6.MinecraftServer.r(MinecraftServer.java:580)
+	at net.minecraft.server.v1_4_6.DedicatedServer.r(DedicatedServer.java:224)
+	at net.minecraft.server.v1_4_6.MinecraftServer.q(MinecraftServer.java:494)
+	at net.minecraft.server.v1_4_6.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.v1_4_6.ThreadServerApplication.run(SourceFile:849)
+Caused by: java.lang.NoSuchMethodError: org.bukkit.event.entity.EntityChangeBlockEvent.getEntity()Lorg/bukkit/entity/LivingEntity;
+	at com.sk89q.worldguard.bukkit.WorldGuardEntityListener.onEndermanPickup(WorldGuardEntityListener.java:733)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:425)
+	... 24 more
+2012-12-28 13:13:07 [INFO] <crazytaxi01> k don't rearly care :)
+2012-12-28 13:13:17 [INFO] [PLAYER_COMMAND] crazytaxi01: /f create
+2012-12-28 13:13:24 [INFO] <iancarroll> Please disable all and any mods that allow abilities not offered by default in game.
+2012-12-28 13:13:43 [INFO] <crazytaxi01> what?
+2012-12-28 13:13:57 [INFO] <iancarroll> You suggested you had a fly mod...
