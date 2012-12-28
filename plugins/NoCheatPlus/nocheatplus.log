@@ -11,3 +11,4 @@
 12.12.28 13:12:28 [INFO] crazytaxi01 failed SurvivalFly: tried to move from 369.06, 62.00, 123.09 to 369.17, 62.00, 123.15 over a distance of 0.13 block(s). VL 1195.
 12.12.28 13:12:42 [INFO] crazytaxi01 failed SurvivalFly: tried to move from 369.06, 62.00, 122.99 to 369.05, 62.00, 122.86 over a distance of 0.12 block(s). VL 835.
 12.12.28 13:15:19 [INFO] crazytaxi01 failed SurvivalFly: tried to move unexpectedly. VL 160.
+12.12.28 15:20:46 [INFO] crazytaxi01 failed Improbable: meets the improbable more than expected. VL 39.
