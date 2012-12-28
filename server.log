@@ -44692,3 +44692,4 @@ Caused by: java.lang.NullPointerException
 2012-12-28 13:03:59 [INFO] Server permissions file permissions.yml is empty, ignoring it
 2012-12-28 13:03:59 [INFO] iancarroll: [32;1mReload complete.[m
 2012-12-28 13:03:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-28 13:05:02 [INFO] [Backup] Failed to retrieve latest version information.
