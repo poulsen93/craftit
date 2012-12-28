@@ -46198,3 +46198,4 @@ Caused by: java.lang.NoSuchMethodError: org.bukkit.event.entity.EntityChangeBloc
 2012-12-28 13:29:19 [INFO] CONSOLE: Disabled level saving..[m
 2012-12-28 13:29:35 [INFO] [Backup] Finished Backup![m
 2012-12-28 13:29:35 [INFO] CONSOLE: Enabled level saving..[m
+2012-12-28 13:35:52 [INFO] [Backup] Aborted backup as no players online. Next attempt in 15 minutes.
