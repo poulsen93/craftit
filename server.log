@@ -46201,3 +46201,6 @@ Caused by: java.lang.NoSuchMethodError: org.bukkit.event.entity.EntityChangeBloc
 2012-12-28 13:35:52 [INFO] [Backup] Aborted backup as no players online. Next attempt in 15 minutes.
 2012-12-28 13:53:51 [INFO] [WhiteMessage] Player Aijelsop is not whitelisted and got kicked from the server.
 2012-12-28 13:53:51 [INFO] Disconnecting Aijelsop [/98.250.4.201:51408]: §9[WhiteMessage] §f§eYou are not on the Whitelist!
+2012-12-28 14:03:22 [INFO] iancarroll[/10.0.1.34:57383] logged in with entity id 74291 at ([world] 507.42655945628394, 79.0, 170.59787751336196)
+2012-12-28 14:03:22 [INFO] [Backup] Stopped last backup, because someone joined.
+2012-12-28 14:03:42 [INFO] iancarroll issued server command: /time day
