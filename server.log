@@ -15731,3 +15731,16 @@ Caused by: java.lang.NoSuchMethodError: org.bukkit.event.entity.EntityChangeBloc
 2012-12-27 19:24:18 [INFO] CONSOLE: Disabled level saving..[m
 2012-12-27 19:24:22 [INFO] [Backup] Finished Backup![m
 2012-12-27 19:24:22 [INFO] CONSOLE: Enabled level saving..[m
+2012-12-27 19:32:38 [INFO] albert59[/108.83.208.220:52969] logged in with entity id 279756 at ([world] -19.07499998807907, 68.0, 165.10687882269139)
+2012-12-27 19:32:38 [INFO] [Backup] Stopped last backup, because someone joined.
+2012-12-27 19:35:58 [INFO] albert59 lost connection: disconnect.quitting
+2012-12-27 19:35:58 [INFO] Connection reset
+2012-12-27 19:35:58 [INFO] [Backup] Scheduled last backup for 15 minutes.
+2012-12-27 19:39:18 [INFO] [Backup] Last player left, backing up!
+2012-12-27 19:39:18 [INFO] [Backup] Started Backup...[m
+2012-12-27 19:39:18 [INFO] CONSOLE: Forcing save..[m
+2012-12-27 19:39:18 [INFO] CONSOLE: Save complete.[m
+2012-12-27 19:39:18 [INFO] CONSOLE: Disabled level saving..[m
+2012-12-27 19:39:22 [INFO] [Backup] Finished Backup![m
+2012-12-27 19:39:22 [INFO] CONSOLE: Enabled level saving..[m
+2012-12-27 19:50:58 [INFO] [Backup] Aborted backup as no players online. Next attempt in 15 minutes.
