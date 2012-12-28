@@ -1,1 +1,22 @@
-{}
+{
+  "crazytaxi01": {
+    "factionId": "0",
+    "role": "NORMAL",
+    "title": "",
+    "power": 0.5763433333333333,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1356718453132,
+    "lastLoginTime": 1356718357428,
+    "chatMode": "PUBLIC"
+  },
+  "iancarroll": {
+    "factionId": "0",
+    "role": "NORMAL",
+    "title": "",
+    "power": 0.60739,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1356718453132,
+    "lastLoginTime": 1356718270915,
+    "chatMode": "PUBLIC"
+  }
+}
