@@ -1,0 +1,31 @@
+# Skript's variable storage
+# Please do not modify this file manually!
+#
+# version: 2.0 beta 5
+
+a.nested, double, 3.0
+colourtest 1, string, §cH§4e§1l§9l§ao§r
+funloop.1, string, Weeee!
+funloop.2, string, Wooo!
+funloop.3, string, Waaahh!
+hardcoded, string, This shouldn't interfere with anything!
+hardcoded::1, double, 0.5
+hardcoded::2, long, 2
+hardcoded::3, color, DARK_RED
+hardcoded::a string, string, This is a test
+hardcoded::an item, itemtype, "-1,false,0:-1/-1"
+hardcoded::something else, timespan, 302000
+is.1.variable, double, 2.0
+is.2.variable, double, 3.0
+is.3.variable, double, 4.0
+kill counter.<player>.kills_session, long, 0
+kill counter.<player>.kills_session_max, long, 0
+kill counter.<player>.kills_total, long, 0
+kits::deathkit::1, itemtype, "-1,false,272:-1/-1"
+kits::deathkit::2, itemtype, "-1,false,299:-1/-1"
+logincount.count, long, 0
+this.2, double, 1.0
+this.3, double, 2.0
+this.4, double, 3.0
+
+zone1, location, "world:-8.968434793955968,64.0,165.04326152638998|-165.1559/1.3500111"

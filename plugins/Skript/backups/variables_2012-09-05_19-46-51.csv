@@ -1,0 +1,40 @@
+# Skript's variable storage
+# Please do not modify this file manually!
+#
+# version: 1.5
+
+announcer.message, double, 2.0
+cake.njol.lastused, date, 1346345202851
+funloop.1, string, Weeee!
+funloop.2, string, Wooo!
+funloop.3, string, Waaahh!
+hardcoded, string, This shouldn't interfere with anything!
+hardcoded::1, double, 0.5
+hardcoded::2, integer, 2
+hardcoded::3, color, DARK_RED
+hardcoded::a string, string, This is a test
+hardcoded::an item, itemstack, 0:0*1
+hardcoded::something else, timespan, 6040
+hg.<player>.points, integer, 0
+hg.njol.winner, boolean, true
+hg.no.join, boolean, false
+hg.parameters, boolean, false
+hg.parameters.2, boolean, false
+hg.parameters.3, boolean, true
+hg.tribute.count, double, 55.0
+kill counter.<player>.kills_session, integer, 0
+kill counter.<player>.kills_session_max, integer, 0
+kill counter.<player>.kills_total, integer, 0
+kill counter.njol.kills_session, double, 105.0
+kill counter.njol.kills_total, double, 112.0
+logincount.count, double, 166.0
+logincount.since, date, 1344968140815
+magic.njol.mana, double, 9.0
+motd, string, this is a test MOTD
+redstonelocation.test, block, "world:245,63,254"
+stuffpvp.<player>.cooldownover, boolean, true
+stuffpvp.njol.cooldownover, boolean, false
+testloc1, location, "world:272.6163659786508,64.0,176.39917935212742|1.1850586/77.57054"
+world:275,70,261, integer, 0
+world:275,71,261, integer, 0
+
