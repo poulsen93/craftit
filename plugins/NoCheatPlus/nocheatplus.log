@@ -7,3 +7,6 @@
 12.12.28 13:11:18 [INFO] crazytaxi01 failed MorePacketsVehicle: sent 10 more packet(s) than expected. VL 10.
 12.12.28 13:11:20 [INFO] crazytaxi01 failed MorePacketsVehicle: sent 10 more packet(s) than expected. VL 10.
 12.12.28 13:11:22 [INFO] crazytaxi01 failed MorePacketsVehicle: sent 10 more packet(s) than expected. VL 10.
+12.12.28 13:12:26 [INFO] crazytaxi01 failed SurvivalFly: tried to move from 368.88, 62.38, 123.00 to 370.95, 63.50, 116.83 over a distance of 6.60 block(s). VL 629.
+12.12.28 13:12:28 [INFO] crazytaxi01 failed SurvivalFly: tried to move from 369.06, 62.00, 123.09 to 369.17, 62.00, 123.15 over a distance of 0.13 block(s). VL 1195.
+12.12.28 13:12:42 [INFO] crazytaxi01 failed SurvivalFly: tried to move from 369.06, 62.00, 122.99 to 369.05, 62.00, 122.86 over a distance of 0.12 block(s). VL 835.
