@@ -46544,3 +46544,93 @@ java.lang.OutOfMemoryError: PermGen space
 2012-12-28 18:32:01 [INFO] Preparing spawn area: 61%
 2012-12-28 18:32:01 [INFO] Preparing start region for level 1 (Seed: 3639402998609283774)
 2012-12-28 18:32:02 [INFO] Preparing spawn area: 8%
+2012-12-28 18:32:03 [INFO] Preparing spawn area: 52%
+2012-12-28 18:32:03 [INFO] Preparing start region for level 2 (Seed: 3639402998609283774)
+2012-12-28 18:32:04 [INFO] Preparing spawn area: 28%
+2012-12-28 18:32:05 [INFO] [WorldEdit] Enabling WorldEdit v5.4.5
+2012-12-28 18:32:05 [INFO] WEPIF: Using the Bukkit Permissions API.
+2012-12-28 18:32:05 [INFO] [NoCheatPlus] Enabling NoCheatPlus v3.8.8-b295
+2012-12-28 18:32:06 [INFO] [NoCheatPlus] McAccess set to: 1.4.6 / CB2545
+2012-12-28 18:32:06 [INFO] [NoCheatPlus] Version 3.8.8-b295 is enabled.
+2012-12-28 18:32:06 [INFO] [Skript] Enabling Skript v2.0 beta 5
+2012-12-28 18:32:09 [INFO] [37;22m[[33;22mSkript[37;22m][0;39m Checking for the latest version of Skript...[m
+2012-12-28 18:32:10 [INFO] [37;22m[[33;22mSkript[37;22m][0;39m You're currently running the latest version of Skript[m
+2012-12-28 18:32:11 [INFO] [Skript] loaded a total of 4168 aliases
+2012-12-28 18:32:11 [WARNING] [Skript] There are no aliases defined for the following ids: 401, 402, 403, 2267
+2012-12-28 18:32:11 [INFO] [Skript]  ~ created by & © Peter Güttinger aka Njol ~
+2012-12-28 18:32:11 [INFO] [Honeypot] Enabling Honeypot v1.4.4.1
+2012-12-28 18:32:11 [INFO] [Honeypot] using OPS for permissions
+2012-12-28 18:32:12 [INFO] [Honeypot] Didn't find ban plugin, using vanilla.
+2012-12-28 18:32:12 [INFO] [Honeypot] version 1.4.4.1, build 48 is enabled
+2012-12-28 18:32:12 [INFO] [WhiteMessage] Enabling WhiteMessage v1.9
+2012-12-28 18:32:12 [INFO] [WhiteMessage] Plugin enabled
+2012-12-28 18:32:12 [INFO] [Backup] Enabling Backup v2.0
+2012-12-28 18:32:12 [INFO] [Backup] Backup v2.0 has completed loading!
+2012-12-28 18:32:12 [INFO] [Votifier] Enabling Votifier v1.9
+2012-12-28 18:32:12 [INFO] [Votifier] Votifier enabled.
+2012-12-28 18:32:12 [INFO] [WorldGuard] Enabling WorldGuard v5.6.5
+2012-12-28 18:32:12 [INFO] [WorldGuard] (world) TNT ignition is PERMITTED.
+2012-12-28 18:32:12 [INFO] [WorldGuard] (world) Lighters are PERMITTED.
+2012-12-28 18:32:12 [INFO] [WorldGuard] (world) Lava fire is blocked.
+2012-12-28 18:32:12 [INFO] [WorldGuard] (world) Fire spread is UNRESTRICTED.
+2012-12-28 18:32:12 [INFO] [WorldGuard] Loaded configuration for world 'world'
+2012-12-28 18:32:12 [INFO] [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+2012-12-28 18:32:12 [INFO] [WorldGuard] (world_nether) Lighters are PERMITTED.
+2012-12-28 18:32:12 [INFO] [WorldGuard] (world_nether) Lava fire is blocked.
+2012-12-28 18:32:12 [INFO] [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+2012-12-28 18:32:12 [INFO] [WorldGuard] Loaded configuration for world 'world_nether'
+2012-12-28 18:32:12 [INFO] [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+2012-12-28 18:32:12 [INFO] [WorldGuard] (world_the_end) Lighters are PERMITTED.
+2012-12-28 18:32:12 [INFO] [WorldGuard] (world_the_end) Lava fire is blocked.
+2012-12-28 18:32:12 [INFO] [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+2012-12-28 18:32:12 [INFO] [WorldGuard] Loaded configuration for world 'world_the_end'
+2012-12-28 18:32:12 [INFO] [WorldGuard] 5 regions loaded for 'world'
+2012-12-28 18:32:12 [INFO] [WorldGuard] 0 regions loaded for 'world_nether'
+2012-12-28 18:32:12 [INFO] [WorldGuard] 0 regions loaded for 'world_the_end'
+2012-12-28 18:32:13 [INFO] [SimpleRestart] Enabling SimpleRestart v1.3.4
+2012-12-28 18:32:13 [INFO] [SimpleRestart] plugin enabled
+2012-12-28 18:32:13 [INFO] [SimpleRestart] warning scheduled for 3000 seconds from now!
+2012-12-28 18:32:13 [INFO] [SimpleRestart] warning scheduled for 3300 seconds from now!
+2012-12-28 18:32:13 [INFO] [SimpleRestart] warning scheduled for 3480 seconds from now!
+2012-12-28 18:32:13 [INFO] [SimpleRestart] warning scheduled for 3540 seconds from now!
+2012-12-28 18:32:13 [INFO] [SimpleRestart] reboot scheduled for 3600 seconds from now!
+2012-12-28 18:32:13 [INFO] [dynmap] Enabling dynmap v1.3-1464
+2012-12-28 18:32:13 [INFO] [dynmap] Using Bukkit Permissions (superperms) for access control
+2012-12-28 18:32:13 [INFO] [dynmap] Web interface permissions only available for online users
+2012-12-28 18:32:27 [INFO] [dynmap] Loaded 21 shaders.
+2012-12-28 18:32:29 [INFO] [dynmap] Loaded 82 perspectives.
+2012-12-28 18:32:29 [INFO] [dynmap] Loaded 12 lightings.
+2012-12-28 18:32:33 [INFO] [dynmap] Web server started on address 0.0.0.0:8123
+2012-12-28 18:32:34 [INFO] [dynmap] version 1.3-1464 is enabled - core version 1.3-452
+2012-12-28 18:32:34 [INFO] [dynmap] Loaded 3 maps of world 'world'.
+2012-12-28 18:32:34 [INFO] [dynmap] Loaded 2 maps of world 'world_nether'.
+2012-12-28 18:32:34 [INFO] [dynmap] Loaded 2 maps of world 'world_the_end'.
+2012-12-28 18:32:34 [INFO] [dynmap] Enabled
+2012-12-28 18:32:34 [INFO] [Essentials] Enabling Essentials v2.9.6
+2012-12-28 18:32:37 [INFO] Essentials: Using config file enhanced permissions.
+2012-12-28 18:32:37 [INFO] Permissions listed in as player-commands will be given to all users.
+2012-12-28 18:32:37 [INFO] [Factions] Enabling Factions v1.6.9.4
+2012-12-28 18:32:37 [INFO] [Factions v1.6.9.4] === ENABLE START ===
+2012-12-28 18:32:38 [INFO] [Factions v1.6.9.4] Loading board from disk
+2012-12-28 18:32:38 [INFO] [Factions v1.6.9.4] Economy integration is disabled, and the plugin "Vault" is not installed.
+2012-12-28 18:32:38 [INFO] [Factions v1.6.9.4] Successfully hooked into LWC! Integration is currently disabled, though ("lwcIntegration").
+2012-12-28 18:32:38 [INFO] [Factions v1.6.9.4] === ENABLE DONE (Took 724ms) ===
+2012-12-28 18:32:38 [INFO] [AntiCommandTab] Enabling AntiCommandTab v1
+2012-12-28 18:32:39 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.9.6
+2012-12-28 18:32:39 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-12-28 18:32:39 [INFO] Done (41.027s)! For help, type "help" or "?"
+2012-12-28 18:32:40 [INFO] [Metrics] ERR  (IOException): Server returned HTTP response code: 502 for URL: http://mcstats.org/report/NoCheatPlus
+2012-12-28 18:32:40 [INFO] [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/ProtocolLib
+2012-12-28 18:32:48 [SEVERE] [Skript] '4 at %arg 1%' is nota null (id.sk, line 7: 'create explosion of force 4 at %arg 1%')
+2012-12-28 18:32:49 [SEVERE] [Skript] indentation error, expected 0 tabs, found 1 tab (badboy.sk, line 2: 'description: Damage a player')
+2012-12-28 18:32:49 [SEVERE] [Skript] indentation error, expected 0 tabs, found 1 tab (badboy.sk, line 3: 'usage: /badboy [player]')
+2012-12-28 18:32:49 [SEVERE] [Skript] indentation error, expected 0 tabs, found 1 tab (badboy.sk, line 4: 'executable by: ops')
+2012-12-28 18:32:49 [SEVERE] [Skript] indentation error, expected 0 tabs, found 1 tab (badboy.sk, line 5: 'trigger:')
+2012-12-28 18:32:49 [SEVERE] [Skript] indentation error, expected 0 tabs, found 2 tabs (badboy.sk, line 6: 'create explosion of force 4 at %arg 1%')
+2012-12-28 18:32:49 [SEVERE] [Skript] invalid line - all code has to be put into triggers (badboy.sk, line 1: 'command /badboy <player>')
+2012-12-28 18:32:49 [INFO] [Skript] loaded 7 scripts with a total of 4 triggers and 8 commands in 9.15 seconds
+2012-12-28 18:32:49 [INFO] [Skript] Skript finished loading!
+2012-12-28 18:32:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-28 18:33:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-12-28 18:33:12 [INFO] /10.0.1.34:61533 lost connection
+2012-12-28 18:33:13 [INFO] /10.0.1.34:61534 lost connection
