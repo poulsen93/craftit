@@ -25,7 +25,7 @@ regions:
         priority: 0
         flags: {}
         owners:
-            players: [crazytaxi01]
+            players: [crazysmith01, crazytaxi01]
         members: {}
     outerspawn:
         type: cuboid
