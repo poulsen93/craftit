@@ -1,2 +1,9 @@
 12.12.27 18:21:55 [INFO] crazytaxi01 failed SurvivalFly: tried to move unexpectedly. VL 104.
 12.12.27 18:22:17 [INFO] crazytaxi01 failed SurvivalFly: tried to move unexpectedly. VL 162.
+12.12.28 13:11:10 [INFO] crazytaxi01 failed MorePacketsVehicle: sent 10 more packet(s) than expected. VL 10.
+12.12.28 13:11:12 [INFO] crazytaxi01 failed MorePacketsVehicle: sent 34 more packet(s) than expected. VL 34.
+12.12.28 13:11:14 [INFO] crazytaxi01 failed MorePacketsVehicle: sent 24 more packet(s) than expected. VL 24.
+12.12.28 13:11:16 [INFO] crazytaxi01 failed MorePacketsVehicle: sent 16 more packet(s) than expected. VL 16.
+12.12.28 13:11:18 [INFO] crazytaxi01 failed MorePacketsVehicle: sent 10 more packet(s) than expected. VL 10.
+12.12.28 13:11:20 [INFO] crazytaxi01 failed MorePacketsVehicle: sent 10 more packet(s) than expected. VL 10.
+12.12.28 13:11:22 [INFO] crazytaxi01 failed MorePacketsVehicle: sent 10 more packet(s) than expected. VL 10.
