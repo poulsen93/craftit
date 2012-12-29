@@ -47292,3 +47292,9 @@ Caused by: java.lang.NoSuchMethodError: org.bukkit.event.entity.EntityChangeBloc
 	at java.lang.reflect.Method.invoke(Method.java:597)
 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:425)
 	... 18 more
+2012-12-28 20:02:37 [INFO] [Backup] Started Backup...[m
+2012-12-28 20:02:37 [INFO] CONSOLE: Forcing save..[m
+2012-12-28 20:02:37 [INFO] CONSOLE: Save complete.[m
+2012-12-28 20:02:37 [INFO] CONSOLE: Disabled level saving..[m
+2012-12-28 20:02:52 [INFO] [Backup] Finished Backup![m
+2012-12-28 20:02:52 [INFO] CONSOLE: Enabled level saving..[m
