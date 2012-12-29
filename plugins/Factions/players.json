@@ -23,10 +23,10 @@
     "factionId": "0",
     "role": "NORMAL",
     "title": "",
-    "power": -0.5252499999999998,
+    "power": 4.3965,
     "powerBoost": 0.0,
-    "lastPowerUpdateTime": 1356728399122,
-    "lastLoginTime": 1356728399122,
+    "lastPowerUpdateTime": 1356743665052,
+    "lastLoginTime": 1356742188527,
     "chatMode": "PUBLIC"
   }
 }

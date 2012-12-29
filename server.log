@@ -47493,3 +47493,202 @@ Caused by: java.lang.NoSuchMethodError: org.bukkit.event.entity.EntityChangeBloc
 	at java.lang.reflect.Method.invoke(Method.java:597)
 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:425)
 	... 18 more
+2012-12-28 20:14:24 [INFO] CONSOLE: Stopping the server..[m
+2012-12-28 20:14:24 [INFO] Stopping server
+2012-12-28 20:14:24 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn v2.9.6
+2012-12-28 20:14:24 [INFO] [AntiCommandTab] Disabling AntiCommandTab v1
+2012-12-28 20:14:24 [INFO] [Factions] Disabling Factions v1.6.9.4
+2012-12-28 20:14:25 [INFO] [Factions v1.6.9.4] Disabled
+2012-12-28 20:14:25 [INFO] [Essentials] Disabling Essentials v2.9.6
+2012-12-28 20:14:25 [INFO] [dynmap] Disabling dynmap v1.3-1464
+2012-12-28 20:14:25 [INFO] [dynmap] Unloaded 11 components.
+2012-12-28 20:14:30 [INFO] [dynmap] Stopping map renderer...
+2012-12-28 20:14:31 [INFO] [dynmap] Disabled
+2012-12-28 20:14:31 [INFO] [SimpleRestart] Disabling SimpleRestart v1.3.4
+2012-12-28 20:14:31 [INFO] [SimpleRestart] plugin disabled
+2012-12-28 20:14:31 [INFO] [WorldGuard] Disabling WorldGuard v5.6.5
+2012-12-28 20:14:31 [INFO] [LWC] Disabling LWC v4.3.1 (b767-git-MANUAL) (November 15, 2012)
+2012-12-28 20:14:31 [INFO] [LWC] Flushing protection updates (0)
+2012-12-28 20:14:31 [INFO] [Votifier] Disabling Votifier v1.9
+2012-12-28 20:14:31 [INFO] [Votifier] Votifier disabled.
+2012-12-28 20:14:31 [INFO] [ProtocolLib] Disabling ProtocolLib v1.9.0
+2012-12-28 20:14:31 [WARNING] [Votifier] Protocol error. Ignoring packet - Socket closed
+2012-12-28 20:14:31 [INFO] [Backup] Disabling Backup v2.0
+2012-12-28 20:14:31 [INFO] [Backup] Backup v2.0 has completely un-loaded!
+2012-12-28 20:14:31 [INFO] [Honeypot] Disabling Honeypot v1.4.4.1
+2012-12-28 20:14:31 [INFO] [Honeypot] version 1.4.4.1, build 48 is disabled
+2012-12-28 20:14:31 [INFO] [WhiteMessage] Disabling WhiteMessage v1.9
+2012-12-28 20:14:31 [INFO] [WhiteMessage] Plugin disabled
+2012-12-28 20:14:31 [INFO] [Skript] Disabling Skript v2.0 beta 5
+2012-12-28 20:14:31 [INFO] [NoCheatPlus] Disabling NoCheatPlus v3.8.8-b295
+2012-12-28 20:14:32 [INFO] [NoCheatPlus] Version 3.8.8-b295 is disabled.
+2012-12-28 20:14:32 [INFO] [WorldEdit] Disabling WorldEdit v5.4.5
+2012-12-28 20:14:32 [WARNING] DSCT: Socket closed
+2012-12-28 20:14:32 [INFO] Saving players
+2012-12-28 20:14:32 [INFO] Closing listening thread
+2012-12-28 20:14:33 [INFO] Saving worlds
+2012-12-28 20:14:33 [INFO] Saving chunks for level 'world'/Overworld
+2012-12-28 20:14:34 [INFO] Saving chunks for level 'world_nether'/Nether
+2012-12-28 20:14:34 [INFO] Saving chunks for level 'world_the_end'/The End
+2012-12-28 20:14:35 [INFO] Stopping server
+2012-12-28 20:14:35 [INFO] Saving players
+2012-12-28 20:14:35 [INFO] Saving worlds
+2012-12-28 20:14:35 [INFO] Saving chunks for level 'world'/Overworld
+2012-12-28 20:14:35 [INFO] Saving chunks for level 'world_nether'/Nether
+2012-12-28 20:14:35 [INFO] Saving chunks for level 'world_the_end'/The End
+2012-12-28 20:14:45 [INFO] Starting minecraft server version 1.4.6
+2012-12-28 20:14:45 [INFO] Loading properties
+2012-12-28 20:14:45 [INFO] Default game type: SURVIVAL
+2012-12-28 20:14:45 [INFO] Generating keypair
+2012-12-28 20:14:45 [INFO] Starting Minecraft server on *:25565
+2012-12-28 20:14:46 [INFO] This server is running CraftBukkit version git-Bukkit-1.4.6-R0.1-b2561jnks (MC: 1.4.6) (Implementing API version 1.4.6-R0.1)
+2012-12-28 20:14:46 [INFO] [WorldEdit] Loading WorldEdit v5.4.5
+2012-12-28 20:14:46 [INFO] [NoCheatPlus] Loading NoCheatPlus v3.8.8-b295
+2012-12-28 20:14:46 [INFO] [Skript] Loading Skript v2.0 beta 5
+2012-12-28 20:14:46 [INFO] [WhiteMessage] Loading WhiteMessage v1.9
+2012-12-28 20:14:46 [INFO] [Honeypot] Loading Honeypot v1.4.4.1
+2012-12-28 20:14:46 [INFO] [Backup] Loading Backup v2.0
+2012-12-28 20:14:46 [INFO] [ProtocolLib] Loading ProtocolLib v1.9.0
+2012-12-28 20:14:46 [INFO] [Votifier] Loading Votifier v1.9
+2012-12-28 20:14:46 [INFO] [LWC] Loading LWC v4.3.1 (b767-git-MANUAL) (November 15, 2012)
+2012-12-28 20:14:46 [INFO] [WorldGuard] Loading WorldGuard v5.6.5
+2012-12-28 20:14:46 [INFO] [SimpleRestart] Loading SimpleRestart v1.3.4
+2012-12-28 20:14:46 [INFO] [dynmap] Loading dynmap v1.3-1464
+2012-12-28 20:14:46 [INFO] [Essentials] Loading Essentials v2.9.6
+2012-12-28 20:14:46 [INFO] [Factions] Loading Factions v1.6.9.4
+2012-12-28 20:14:46 [INFO] [AntiCommandTab] Loading AntiCommandTab v1
+2012-12-28 20:14:46 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.9.6
+2012-12-28 20:14:46 [INFO] [ProtocolLib] Enabling ProtocolLib v1.9.0
+2012-12-28 20:14:46 [INFO] [ProtocolLib] Started structure compiler thread.
+2012-12-28 20:14:47 [INFO] [LWC] Enabling LWC v4.3.1 (b767-git-MANUAL) (November 15, 2012)
+2012-12-28 20:14:47 [INFO] [LWC] Loaded 209 locale strings (0 overrides)
+2012-12-28 20:14:47 [INFO] [LWC] Permissions API: ¤4SuperPermsPermissions
+2012-12-28 20:14:47 [INFO] [LWC] Currency API: ¤4EssentialsCurrency
+2012-12-28 20:14:47 [INFO] [LWC] Connecting to SQLite
+2012-12-28 20:14:47 [INFO] [LWC] Performing any necessary database updates
+2012-12-28 20:14:47 [INFO] [LWC] Using database: Native
+2012-12-28 20:14:47 [INFO] ----- Bukkit Auto Updater -----
+2012-12-28 20:14:47 [INFO] It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2012-12-28 20:14:47 [INFO] If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+2012-12-28 20:14:47 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2012-12-28 20:14:47 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2012-12-28 20:14:47 [INFO] ----- ------------------- -----
+2012-12-28 20:14:47 [INFO] [LWC] Precached 19 protections
+2012-12-28 20:14:47 [INFO] Preparing level "world"
+2012-12-28 20:14:47 [INFO] Preparing start region for level 0 (Seed: 481336333637640358)
+2012-12-28 20:14:48 [INFO] Preparing start region for level 1 (Seed: 3639402998609283774)
+2012-12-28 20:14:48 [INFO] Preparing spawn area: 16%
+2012-12-28 20:14:48 [INFO] Preparing start region for level 2 (Seed: 3639402998609283774)
+2012-12-28 20:14:48 [INFO] [WorldEdit] Enabling WorldEdit v5.4.5
+2012-12-28 20:14:49 [INFO] WEPIF: Using the Bukkit Permissions API.
+2012-12-28 20:14:49 [INFO] [NoCheatPlus] Enabling NoCheatPlus v3.8.8-b295
+2012-12-28 20:14:49 [INFO] [NoCheatPlus] McAccess set to: 1.4.6 / CB2545
+2012-12-28 20:14:49 [INFO] [NoCheatPlus] Version 3.8.8-b295 is enabled.
+2012-12-28 20:14:49 [INFO] [Skript] Enabling Skript v2.0 beta 5
+2012-12-28 20:14:50 [INFO] [37;22m[[33;22mSkript[37;22m][0;39m Checking for the latest version of Skript...[m
+2012-12-28 20:14:50 [INFO] [Skript] loaded a total of 4168 aliases
+2012-12-28 20:14:50 [WARNING] [Skript] There are no aliases defined for the following ids: 401, 402, 403, 2267
+2012-12-28 20:14:50 [INFO] [Skript]  ~ created by & © Peter GŸttinger aka Njol ~
+2012-12-28 20:14:50 [INFO] [WhiteMessage] Enabling WhiteMessage v1.9
+2012-12-28 20:14:50 [INFO] [WhiteMessage] Plugin enabled
+2012-12-28 20:14:50 [INFO] [Honeypot] Enabling Honeypot v1.4.4.1
+2012-12-28 20:14:50 [INFO] [Honeypot] using OPS for permissions
+2012-12-28 20:14:50 [INFO] [Honeypot] Didn't find ban plugin, using vanilla.
+2012-12-28 20:14:50 [INFO] [Honeypot] version 1.4.4.1, build 48 is enabled
+2012-12-28 20:14:50 [INFO] [Backup] Enabling Backup v2.0
+2012-12-28 20:14:50 [INFO] [Backup] Backup v2.0 has completed loading!
+2012-12-28 20:14:50 [INFO] [Votifier] Enabling Votifier v1.9
+2012-12-28 20:14:50 [WARNING] [Votifier] No listeners loaded! Cannot find listener directory 'plugins/Votifier/listeners' 
+2012-12-28 20:14:50 [INFO] [Votifier] Votifier enabled.
+2012-12-28 20:14:50 [INFO] [WorldGuard] Enabling WorldGuard v5.6.5
+2012-12-28 20:14:50 [INFO] [WorldGuard] (world) TNT ignition is PERMITTED.
+2012-12-28 20:14:50 [INFO] [WorldGuard] (world) Lighters are PERMITTED.
+2012-12-28 20:14:50 [INFO] [WorldGuard] (world) Lava fire is blocked.
+2012-12-28 20:14:50 [INFO] [WorldGuard] (world) Fire spread is UNRESTRICTED.
+2012-12-28 20:14:50 [INFO] [WorldGuard] Loaded configuration for world 'world'
+2012-12-28 20:14:50 [INFO] [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+2012-12-28 20:14:50 [INFO] [WorldGuard] (world_nether) Lighters are PERMITTED.
+2012-12-28 20:14:50 [INFO] [WorldGuard] (world_nether) Lava fire is blocked.
+2012-12-28 20:14:50 [INFO] [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+2012-12-28 20:14:50 [INFO] [WorldGuard] Loaded configuration for world 'world_nether'
+2012-12-28 20:14:51 [INFO] [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+2012-12-28 20:14:51 [INFO] [WorldGuard] (world_the_end) Lighters are PERMITTED.
+2012-12-28 20:14:51 [INFO] [WorldGuard] (world_the_end) Lava fire is blocked.
+2012-12-28 20:14:51 [INFO] [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+2012-12-28 20:14:51 [INFO] [WorldGuard] Loaded configuration for world 'world_the_end'
+2012-12-28 20:14:51 [INFO] [WorldGuard] 5 regions loaded for 'world'
+2012-12-28 20:14:51 [INFO] [WorldGuard] 0 regions loaded for 'world_nether'
+2012-12-28 20:14:51 [INFO] [WorldGuard] 0 regions loaded for 'world_the_end'
+2012-12-28 20:14:51 [INFO] [SimpleRestart] Enabling SimpleRestart v1.3.4
+2012-12-28 20:14:51 [INFO] [SimpleRestart] plugin enabled
+2012-12-28 20:14:51 [INFO] [SimpleRestart] warning scheduled for 3000 seconds from now!
+2012-12-28 20:14:51 [INFO] [SimpleRestart] warning scheduled for 3300 seconds from now!
+2012-12-28 20:14:51 [INFO] [SimpleRestart] warning scheduled for 3480 seconds from now!
+2012-12-28 20:14:51 [INFO] [SimpleRestart] warning scheduled for 3540 seconds from now!
+2012-12-28 20:14:51 [INFO] [SimpleRestart] reboot scheduled for 3600 seconds from now!
+2012-12-28 20:14:51 [INFO] [dynmap] Enabling dynmap v1.3-1464
+2012-12-28 20:14:51 [INFO] [dynmap] Using Bukkit Permissions (superperms) for access control
+2012-12-28 20:14:51 [INFO] [dynmap] Web interface permissions only available for online users
+2012-12-28 20:14:51 [INFO] [37;22m[[33;22mSkript[37;22m][0;39m You're currently running the latest version of Skript[m
+2012-12-28 20:14:53 [INFO] [dynmap] Loaded 21 shaders.
+2012-12-28 20:14:53 [INFO] [dynmap] Loaded 82 perspectives.
+2012-12-28 20:14:53 [INFO] [dynmap] Loaded 12 lightings.
+2012-12-28 20:14:53 [INFO] [dynmap] Web server started on address 0.0.0.0:8123
+2012-12-28 20:14:53 [INFO] [dynmap] version 1.3-1464 is enabled - core version 1.3-452
+2012-12-28 20:14:53 [INFO] [dynmap] Loaded 3 maps of world 'world'.
+2012-12-28 20:14:53 [INFO] [dynmap] Loaded 2 maps of world 'world_nether'.
+2012-12-28 20:14:53 [INFO] [dynmap] Loaded 2 maps of world 'world_the_end'.
+2012-12-28 20:14:53 [INFO] [dynmap] Enabled
+2012-12-28 20:14:53 [INFO] [Essentials] Enabling Essentials v2.9.6
+2012-12-28 20:14:54 [INFO] Essentials: Using config file enhanced permissions.
+2012-12-28 20:14:54 [INFO] Permissions listed in as player-commands will be given to all users.
+2012-12-28 20:14:54 [INFO] [Factions] Enabling Factions v1.6.9.4
+2012-12-28 20:14:54 [INFO] [Factions v1.6.9.4] === ENABLE START ===
+2012-12-28 20:14:54 [INFO] [Factions v1.6.9.4] Loading board from disk
+2012-12-28 20:14:54 [INFO] [Factions v1.6.9.4] Economy integration is disabled, and the plugin "Vault" is not installed.
+2012-12-28 20:14:54 [INFO] [Factions v1.6.9.4] Successfully hooked into LWC! Integration is currently disabled, though ("lwcIntegration").
+2012-12-28 20:14:54 [INFO] [Factions v1.6.9.4] === ENABLE DONE (Took 314ms) ===
+2012-12-28 20:14:54 [INFO] [AntiCommandTab] Enabling AntiCommandTab v1
+2012-12-28 20:14:55 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.9.6
+2012-12-28 20:14:55 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-12-28 20:14:55 [INFO] Done (7.883s)! For help, type "help" or "?"
+2012-12-28 20:14:56 [SEVERE] [Skript] '4 at %arg 1%' is nota null (id.sk, line 7: 'create explosion of force 4 at %arg 1%')
+2012-12-28 20:14:56 [INFO] [Skript] loaded 6 scripts with a total of 4 triggers and 8 commands in 1.65 seconds
+2012-12-28 20:14:57 [INFO] [Skript] Skript finished loading!
+2012-12-28 20:14:57 [INFO] CONSOLE: Stopping the server..[m
+2012-12-28 20:14:57 [INFO] Stopping server
+2012-12-28 20:14:57 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn v2.9.6
+2012-12-28 20:14:57 [INFO] [AntiCommandTab] Disabling AntiCommandTab v1
+2012-12-28 20:14:57 [INFO] [Factions] Disabling Factions v1.6.9.4
+2012-12-28 20:14:57 [INFO] [Factions v1.6.9.4] Disabled
+2012-12-28 20:14:57 [INFO] [Essentials] Disabling Essentials v2.9.6
+2012-12-28 20:14:57 [INFO] [dynmap] Disabling dynmap v1.3-1464
+2012-12-28 20:14:57 [INFO] [dynmap] Unloaded 11 components.
+2012-12-28 20:14:57 [INFO] [dynmap] Stopping map renderer...
+2012-12-28 20:14:58 [INFO] [dynmap] Disabled
+2012-12-28 20:14:58 [INFO] [SimpleRestart] Disabling SimpleRestart v1.3.4
+2012-12-28 20:14:58 [INFO] [SimpleRestart] plugin disabled
+2012-12-28 20:14:58 [INFO] [WorldGuard] Disabling WorldGuard v5.6.5
+2012-12-28 20:14:58 [INFO] [LWC] Disabling LWC v4.3.1 (b767-git-MANUAL) (November 15, 2012)
+2012-12-28 20:14:58 [INFO] [LWC] Flushing protection updates (0)
+2012-12-28 20:14:58 [INFO] [Votifier] Disabling Votifier v1.9
+2012-12-28 20:14:58 [INFO] [Votifier] Votifier disabled.
+2012-12-28 20:14:58 [WARNING] [Votifier] Protocol error. Ignoring packet - Socket closed
+2012-12-28 20:14:58 [INFO] [ProtocolLib] Disabling ProtocolLib v1.9.0
+2012-12-28 20:14:58 [INFO] [Backup] Disabling Backup v2.0
+2012-12-28 20:14:58 [INFO] [Backup] Backup v2.0 has completely un-loaded!
+2012-12-28 20:14:58 [INFO] [Honeypot] Disabling Honeypot v1.4.4.1
+2012-12-28 20:14:58 [INFO] [Honeypot] version 1.4.4.1, build 48 is disabled
+2012-12-28 20:14:58 [INFO] [WhiteMessage] Disabling WhiteMessage v1.9
+2012-12-28 20:14:58 [INFO] [WhiteMessage] Plugin disabled
+2012-12-28 20:14:58 [INFO] [Skript] Disabling Skript v2.0 beta 5
+2012-12-28 20:14:58 [INFO] [NoCheatPlus] Disabling NoCheatPlus v3.8.8-b295
+2012-12-28 20:14:58 [INFO] [NoCheatPlus] Version 3.8.8-b295 is disabled.
+2012-12-28 20:14:58 [INFO] [WorldEdit] Disabling WorldEdit v5.4.5
+2012-12-28 20:14:58 [INFO] Saving players
+2012-12-28 20:14:58 [INFO] Saving worlds
+2012-12-28 20:14:58 [INFO] Saving chunks for level 'world'/Overworld
+2012-12-28 20:14:58 [WARNING] DSCT: Socket closed
+2012-12-28 20:14:58 [INFO] Closing listening thread
+2012-12-28 20:14:58 [INFO] Saving chunks for level 'world_nether'/Nether
+2012-12-28 20:14:58 [INFO] Saving chunks for level 'world_the_end'/The End
