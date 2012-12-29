@@ -46677,3 +46677,4 @@ Caused by: java.lang.NoSuchMethodError: org.bukkit.event.entity.EntityChangeBloc
 2012-12-28 18:53:30 [INFO] Loading properties
 2012-12-28 18:53:59 [INFO] Default game type: SURVIVAL
 2012-12-28 18:54:05 [INFO] Generating keypair
+2012-12-28 19:01:05 [INFO] Starting Minecraft server on *:25565
