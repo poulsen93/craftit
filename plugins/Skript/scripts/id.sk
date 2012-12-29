@@ -1,0 +1,7 @@
+# a simple ID command to get the id of the held item
+command /blowup <player>:
+	description: Find the ID of the item you're holding, or any given one.
+	usage: /id [player]
+	executable by: players
+	trigger:
+		create explosion of force 4 at %arg 1%

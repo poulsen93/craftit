@@ -1,0 +1,5 @@
+on damage of player:
+  log "%attacker% attacked %victim%" to "pvp_damage"
+  
+on death:
+  log "%attacker% killed %player%" to "pvp_kill"

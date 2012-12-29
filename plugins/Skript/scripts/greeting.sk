@@ -1,0 +1,8 @@
+on join:
+	message "Welcome to CraftIt!"
+	message "Admins: iancarroll"
+	message "PvP and Griefing are allowed"
+	message "However, any server-owned building"
+	message "is off limits."
+	message "Have fun!"
+

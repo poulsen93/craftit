@@ -1,0 +1,5 @@
+command /chest:
+        trigger:
+                loop blocks in radius 90 around player:
+                        loop-block is a chest
+                        message "There is a chest at %location of loop-block%"

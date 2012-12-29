@@ -1,0 +1,30 @@
+command /setzone1:
+	trigger:
+		set {zone1} to location of player
+		message "<green>Success! Go to this zone using /zone1"
+
+command /setzone2:
+	trigger:
+		set {zone2} to location of player
+command /setzone3:
+	trigger:
+		set {zone3} to location of player
+command /zone1:
+	trigger:	
+		if {zone1} is not set:
+			message "<red>Set this zone with /setzone1"
+			stop trigger
+		teleport player to {zone1}
+command /zone2:
+	trigger:
+		if {zone2} is not set:
+			message "<red>Set this zone with /setzone2"
+			stop trigger
+		teleport player to {zone2}
+
+command /zone3:
+	trigger:
+		if {zone3} is not set:
+			message "<red>Set this zone with /setzone3"
+			stop trigger
+		teleport player to {zone3}

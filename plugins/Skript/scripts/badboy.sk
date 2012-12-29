@@ -1,0 +1,6 @@
+command /badboy <player>
+	description: Damage a player
+	usage: /badboy [player]
+	executable by: ops
+	trigger:
+		create explosion of force 4 at %arg 1%

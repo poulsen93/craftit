@@ -1,0 +1,3 @@
+on place of lava:
+	send "Please don't use excessive lava" to player
+	log "%player% placed Lava at %location of block%" to "Lava"

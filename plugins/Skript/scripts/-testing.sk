@@ -1,0 +1,3 @@
+on mine:
+	send "You mined a block!" to player
+
